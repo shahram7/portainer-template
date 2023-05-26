@@ -126,8 +126,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -163,8 +163,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -188,8 +188,8 @@
         {
             "description": "[Babybuddy](https://github.com/babybuddy/babybuddy) is a buddy for babies! Helps caregivers track sleep, feedings, diaper changes, tummy time and more to learn about and predict baby's needs without (as much) guess work.",
             "env": [{
-                "default": "Europe/Amsterdam",
-                "description": "Specify a timezone to use for example Europe/Amsterdam",
+                "default": "Europe/Berlin",
+                "description": "Specify a timezone to use for example Europe/Berlin",
                 "label": "TZ",
                 "name": "TZ"
             }],
@@ -312,8 +312,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -404,8 +404,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -527,8 +527,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -678,8 +678,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -745,8 +745,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -821,8 +821,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -866,8 +866,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -915,8 +915,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -958,8 +958,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -998,8 +998,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -1043,8 +1043,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -1080,8 +1080,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -1133,8 +1133,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -1174,8 +1174,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -1214,8 +1214,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -1280,8 +1280,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -1320,8 +1320,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -1361,8 +1361,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -1409,8 +1409,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -1451,8 +1451,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -1503,8 +1503,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -1558,8 +1558,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -1609,8 +1609,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -1646,8 +1646,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -1691,8 +1691,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -1758,8 +1758,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -1795,8 +1795,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -1832,8 +1832,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -1930,8 +1930,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -1968,8 +1968,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -2008,8 +2008,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -2045,8 +2045,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -2102,8 +2102,8 @@
                     "name": "SEC_KEY"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -2140,8 +2140,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -2334,8 +2334,8 @@
                     "name": "DB_NAME"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -2389,8 +2389,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -2430,8 +2430,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -2471,8 +2471,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -2512,8 +2512,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -2566,8 +2566,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -2621,8 +2621,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -2658,8 +2658,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -2707,8 +2707,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -2747,8 +2747,8 @@
         {
             "description": "[Ldap-auth](https://github.com/nginxinc/nginx-ldap-auth) software is for authenticating users who request protected resources from servers proxied by nginx. It includes a daemon (ldap-auth) that communicates with an authentication server, and a webserver daemon that generates an authentication cookie based on the user’s credentials. The daemons are written in Python for use with a Lightweight Directory Access Protocol (LDAP) authentication server (OpenLDAP or Microsoft Windows Active Directory 2003 and 2012).",
             "env": [{
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -2802,8 +2802,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -2839,8 +2839,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -2924,8 +2924,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -2970,8 +2970,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -3007,8 +3007,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -3079,8 +3079,8 @@
                     "name": "MYSQL_ROOT_PASSWORD"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -3140,8 +3140,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -3186,8 +3186,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -3229,8 +3229,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -3274,8 +3274,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -3316,8 +3316,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -3393,8 +3393,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -3430,8 +3430,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -3581,8 +3581,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -3738,8 +3738,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -3780,8 +3780,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -3818,8 +3818,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -3867,8 +3867,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -3904,8 +3904,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -3952,8 +3952,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -3994,8 +3994,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -4037,8 +4037,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -4128,8 +4128,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -4189,8 +4189,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -4229,8 +4229,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -4266,8 +4266,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -4314,8 +4314,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -4362,8 +4362,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -4411,8 +4411,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -4460,8 +4460,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -4497,8 +4497,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -4542,8 +4542,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -4646,8 +4646,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -4694,8 +4694,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -4737,8 +4737,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -4787,8 +4787,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -4830,8 +4830,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -4890,8 +4890,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -4940,8 +4940,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -5033,8 +5033,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -5079,8 +5079,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -5116,8 +5116,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -5159,8 +5159,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -5199,8 +5199,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -5236,8 +5236,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -5283,8 +5283,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -5329,8 +5329,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -5376,8 +5376,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -5436,8 +5436,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -5522,8 +5522,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -5564,8 +5564,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -5672,8 +5672,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -5718,8 +5718,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -5755,8 +5755,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -5847,8 +5847,8 @@
         {
             "description": "[Synclounge](https://github.com/samcm/synclounge) is a third party tool that allows you to watch Plex in sync with your friends/family, wherever you are.",
             "env": [{
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -5898,8 +5898,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -5950,8 +5950,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -6012,8 +6012,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -6049,8 +6049,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -6086,8 +6086,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -6164,8 +6164,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -6213,8 +6213,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -6324,8 +6324,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -6366,8 +6366,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -6415,8 +6415,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -6457,8 +6457,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -6535,8 +6535,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -6573,8 +6573,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -6611,8 +6611,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -6648,8 +6648,8 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "Europe/Amsterdam",
-                    "description": "Specify a timezone to use for example Europe/Amsterdam",
+                    "default": "Europe/Berlin",
+                    "description": "Specify a timezone to use for example Europe/Berlin",
                     "label": "TZ",
                     "name": "TZ"
                 }
